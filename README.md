@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi there, I'm 
-  <span style="color:#70A5FD;">Kean 👋</span>
+  Hi there, I'm <font color="#70A5FD">Kean 👋</font>
 </h1>
 
 <p align="center">
@@ -19,12 +18,11 @@
 
 ---
 
-<!-- About Me + Illustration -->
 <div align="center">
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/animated-coding.gif" width="340" alt="Kean coding illustration">
+</div>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/animated-coding.gif" width="340" alt="Kean coding illustration" style="margin-left: 20px;"/>
-
-### 🧠 About Me  
+### 🧠 About Me
 - 🎓 Pursuing **BSc in Computer Science (Artificial Intelligence)**  
 - 💼 Contributed to **Cashku**, a live fintech app built with React Native, TypeScript & .NET  
 - 🧩 Exploring **AI projects**, **Python ML**, and **mobile app dev**  
@@ -32,12 +30,10 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 **Languages:** Python, Java, TypeScript, C#  
 **Frameworks:** React Native, .NET, Flask, TensorFlow  
 **Tools:** VSCode, IntelliJ, Azure DevOps, Git, Postman, MySQL  
-
-</div>
 
 ---
 
