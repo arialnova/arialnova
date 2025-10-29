@@ -39,7 +39,7 @@
 </td>
 <td align="center">
   <!-- Add your illustration here -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.gif" width="380" alt="Kean coding laptop illustration">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/animated-coding.gif" width="380" alt="Kean coding illustration">
 </td>
 </tr>
 </table>
