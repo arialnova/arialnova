@@ -1,5 +1,7 @@
-<!-- Centered Intro Section -->
-<h1 align="center">Hi there, I'm Kean 👋</h1>
+<h1 align="center">
+  Hi there, I'm 
+  <span style="color:#70A5FD;">Kean 👋</span>
+</h1>
 
 <p align="center">
   <b>💻 Computer Science (AI) Student | Aspiring Full-Stack & AI Developer</b><br>
@@ -8,7 +10,6 @@
 
 ---
 
-<!-- Links Section -->
 <p align="center">
   🌐 
   <a href="https://www.linkedin.com/in/YOUR-LINK-HERE">LinkedIn</a> •
@@ -19,11 +20,11 @@
 ---
 
 <!-- About Me + Illustration -->
-<table>
-<tr>
-<td>
+<div align="center">
 
-### 🧠 About Me
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/animated-coding.gif" width="340" alt="Kean coding illustration" style="margin-left: 20px;"/>
+
+### 🧠 About Me  
 - 🎓 Pursuing **BSc in Computer Science (Artificial Intelligence)**  
 - 💼 Contributed to **Cashku**, a live fintech app built with React Native, TypeScript & .NET  
 - 🧩 Exploring **AI projects**, **Python ML**, and **mobile app dev**  
@@ -31,22 +32,15 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 **Languages:** Python, Java, TypeScript, C#  
 **Frameworks:** React Native, .NET, Flask, TensorFlow  
 **Tools:** VSCode, IntelliJ, Azure DevOps, Git, Postman, MySQL  
 
-</td>
-<td align="center">
-  <!-- Add your illustration here -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/animated-coding.gif" width="380" alt="Kean coding laptop illustration">
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -56,7 +50,6 @@
 
 ---
 
-<!-- Contribution Graph -->
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
@@ -65,14 +58,12 @@
 
 ---
 
-<!-- Footer Badges -->
 <h3 align="center">✨ Stay Connected</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arialnova&label=Profile+Views&color=brightgreen" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/arialnova?label=Followers&style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/arialnova?label=Stars&style=social" alt="Stars"/>
-  <img src="https://img.shields.io/youtube/views/0000?label=Views&style=social" alt="Views"/>
 </p>
 
 ---
