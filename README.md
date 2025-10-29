@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>💻 Computer Science (AI) Student | Aspiring Full-Stack & AI Developer</b><br>
-  Just a calm luh guy striving to be a developer.
 </p>
 
 ---
